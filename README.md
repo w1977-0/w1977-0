@@ -34,6 +34,24 @@
 | **开源项目学习** | 阅读优秀项目的说明，理解它们如何解决问题。 |
 | **个人作品积累** | 从学习笔记与小工具开始，逐步建立自己的作品集。 |
 
+## 正在学习的工具
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%E5%AD%A6%E4%B9%A0%E4%B8%AD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git 学习中" />
+  <img src="https://img.shields.io/badge/GitHub-%E5%AD%A6%E4%B9%A0%E4%B8%AD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 学习中" />
+  <img src="https://img.shields.io/badge/Markdown-%E5%AD%A6%E4%B9%A0%E4%B8%AD-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown 学习中" />
+  <img src="https://img.shields.io/badge/Python-%E5%85%A5%E9%97%A8-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 入门" />
+  <img src="https://img.shields.io/badge/AI%20Tools-%E6%8E%A2%E7%B4%A2%E4%B8%AD-412991?style=for-the-badge" alt="AI 工具探索中" />
+</p>
+
+## GitHub 公开活动
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=w1977-0&show_icons=true&hide_border=true&theme=transparent" alt="w1977-0 的 GitHub 统计" />
+</p>
+
+> 统计卡片会随公开 GitHub 活动自动更新。若某些网络环境暂时无法加载外部图片，主页的文字内容不会受到影响。
+
 ## 我的学习地图
 
 ```text
