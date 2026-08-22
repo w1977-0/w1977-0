@@ -1,0 +1,89 @@
+name: Update daily quote
+
+on:
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-daily-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and update daily quote
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+
+          const clean = (value) => String(value || '')
+            .replace(/[\r\n]+/g, ' ')
+            .replace(/<!--|-->/g, '')
+            .trim();
+
+          (async () => {
+            const response = await fetch('https://v1.hitokoto.cn/?encode=json', {
+              headers: { 'User-Agent': 'w1977-0-profile-daily-quote' }
+            });
+            if (!response.ok) {
+              throw new Error(`Daily quote request failed: ${response.status}`);
+            }
+
+            const data = await response.json();
+            const quote = clean(data.hitokoto);
+            const source = [clean(data.from), clean(data.from_who)]
+              .filter(Boolean)
+              .join(' · ') || '今日一言';
+            if (!quote) {
+              throw new Error('Daily quote response did not contain text');
+            }
+
+            const updatedAt = new Intl.DateTimeFormat('zh-CN', {
+              timeZone: 'Asia/Shanghai',
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
+              hour: '2-digit',
+              minute: '2-digit',
+              hour12: false
+            }).format(new Date()).replace(/\//g, '-');
+
+            const block = [
+              '<!-- DAILY-QUOTE:START -->',
+              `> ${quote}`,
+              '>',
+              `> —— ${source}`,
+              '>',
+              `> *更新时间：${updatedAt}（北京时间）*`,
+              '<!-- DAILY-QUOTE:END -->'
+            ].join('\n');
+
+            const readmePath = 'README.md';
+            const readme = fs.readFileSync(readmePath, 'utf8');
+            const marker = /<!-- DAILY-QUOTE:START -->[\s\S]*?<!-- DAILY-QUOTE:END -->/;
+            if (!marker.test(readme)) {
+              throw new Error('Daily quote markers were not found in README.md');
+            }
+
+            fs.writeFileSync(readmePath, readme.replace(marker, block));
+          })().catch((error) => {
+            console.error(error);
+            process.exit(1);
+          });
+          NODE
+
+      - name: Commit updated quote when it changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README change to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update daily quote"
+          git push
