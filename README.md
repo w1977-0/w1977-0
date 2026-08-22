@@ -6,6 +6,14 @@
 
 > 爱读、爱学、爱折腾新工具；把好奇心记成笔记，把学习做成小作品。
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1100&color=0E75B6&center=true&vCenter=true&width=560&lines=%E7%94%A8%E5%A5%BD%E5%A5%87%E5%BF%83%E9%A9%B1%E5%8A%A8%E5%AD%A6%E4%B9%A0%EF%BC%8C%E7%94%A8%E8%AE%B0%E5%BD%95%E7%82%B9%E4%BA%AE%E6%88%90%E9%95%BF%EF%BC%9B%E6%8E%A2%E7%B4%A2+AI+%C2%B7+%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7+%C2%B7+%E6%8C%81%E7%BB%AD%E5%88%9B%E9%80%A0" alt="动态个人定位" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=w1977-0&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
+
 </div>
 
 ---
