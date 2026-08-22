@@ -29,7 +29,7 @@ Media Archiver 是持续维护的跨平台核心。它支持用户复核公开 U
 [查看 Release](https://github.com/w1977-0/media-archiver/releases) · [阅读项目说明](https://github.com/w1977-0/media-archiver#readme)
 
 ```bash
-go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@latest
+go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
 ```
 
 <p align="center">
@@ -55,10 +55,11 @@ go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@latest
 
 | 学习脉络 | 入口与说明 |
 | --- | --- |
-| **阅读与英语素材** | [Reading Library](https://github.com/w1977-0/reading-library)：保留上游来源的英语阅读学习收藏。 |
-| **教育与知识资源** | [Learning Library](https://github.com/w1977-0/learning-library)：保留上游来源的教育资源学习收藏。 |
+| **阅读与英语素材** | [Reading Library](https://github.com/w1977-0/reading-library)：保留上游来源的英语阅读学习收藏；对应的[学习笔记](notes/open-source-learning/reading-library.md)记录了运行方式、限制与下一步实验。 |
+| **教育与知识资源** | [Learning Library](https://github.com/w1977-0/learning-library)：保留上游来源的教育资源学习收藏；对应的[学习笔记](notes/open-source-learning/learning-library.md)说明资源核验与小规模实验。 |
 | **知识笔记** | [Philosophy Notes](https://github.com/w1977-0/philosophy-notes)：用于整理可追溯的学习思考。 |
-| **工具探索** | [Content Archiver](https://github.com/w1977-0/content-archiver)、[Article Audio](https://github.com/w1977-0/article-audio) 与 [AI Sentiment](https://github.com/w1977-0/ai-sentiment) 记录不同方向的实验与学习。 |
+| **工具探索** | [Content Archiver](https://github.com/w1977-0/content-archiver)、[Article Audio](https://github.com/w1977-0/article-audio) 与 [AI Sentiment](https://github.com/w1977-0/ai-sentiment) 分别对应[归档笔记](notes/open-source-learning/content-archiver.md)、[文章转音频笔记](notes/open-source-learning/article-audio.md)与[舆情分析笔记](notes/open-source-learning/ai-sentiment.md)。 |
+| **开源学习笔记总览** | [notes/open-source-learning/](notes/open-source-learning/)：五篇短笔记保留上游归属，分别说明收藏原因、运行方式、观察到的限制与下一步微实验。 |
 
 ## 关于我
 
