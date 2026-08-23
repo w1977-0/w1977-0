@@ -77,11 +77,11 @@ go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 不要太小看人类了！
+> 那些坚定决心的人们，会展现出好脸色。
 >
-> —— 加油大魔王
+> —— 闪电十一人
 >
-> *更新时间：2026-08-22 13:44（北京时间）*
+> *更新时间：2026-08-23 09:55（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
