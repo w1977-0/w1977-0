@@ -77,11 +77,11 @@ go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 那些坚定决心的人们，会展现出好脸色。
+> 我也想杀死伤痛，让那恩怨有始有终。
 >
-> —— 闪电十一人
+> —— 县城 · 刘森
 >
-> *更新时间：2026-08-23 09:55（北京时间）*
+> *更新时间：2026-08-24 09:52（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
