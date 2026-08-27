@@ -77,11 +77,11 @@ go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 苟富贵，勿相忘；猫富贵，勿相喵。
+> 剑在心，烁古今！
 >
-> —— 网络
+> —— 黑神话悟空 · 黄袍员外
 >
-> *更新时间：2026-08-26 09:52（北京时间）*
+> *更新时间：2026-08-27 17:27（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
