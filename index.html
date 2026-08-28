@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>w1977-0 · Building local-first tools</title>
+<meta name="description" content="Personal portfolio · Local-first tools, curated learning resources, open source practice.">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #fafafa;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 920px; margin: 0 auto; padding: 80px 24px; }
+  header { margin-bottom: 64px; }
+  h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 12px;
+  }
+  .tagline {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  .meta {
+    font-size: 0.9rem;
+    color: #888;
+  }
+  section { margin-bottom: 56px; }
+  h2 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+    letter-spacing: -0.01em;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    padding: 20px;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .card:hover {
+    border-color: #1a1a1a;
+    transform: translateY(-2px);
+  }
+  .card h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .card h3 a {
+    color: #1a1a1a;
+    text-decoration: none;
+  }
+  .card h3 a:hover { text-decoration: underline; }
+  .card .tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    color: #666;
+    background: #f0f0f0;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  .card p {
+    font-size: 0.92rem;
+    color: #444;
+  }
+  .stack {
+    font-size: 0.78rem;
+    color: #777;
+    margin-top: 12px;
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .links a {
+    color: #1a1a1a;
+    text-decoration: none;
+    font-size: 0.95rem;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s;
+  }
+  .links a:hover { border-bottom-color: #1a1a1a; }
+  .quote {
+    border-left: 3px solid #1a1a1a;
+    padding: 4px 0 4px 16px;
+    color: #666;
+    font-style: italic;
+    margin: 24px 0;
+  }
+  footer {
+    margin-top: 80px;
+    padding-top: 24px;
+    border-top: 1px solid #e5e5e5;
+    font-size: 0.85rem;
+    color: #888;
+    text-align: center;
+  }
+  @media (max-width: 600px) {
+    .container { padding: 48px 20px; }
+    h1 { font-size: 1.9rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>w1977-0</h1>
+    <div class="tagline">Building local-first tools and curating learning resources.</div>
+    <div class="meta">个人作品集 · Personal portfolio</div>
+  </header>
+
+  <section>
+    <h2>关于 · About</h2>
+    <p>I build small, well-defined tools that respect user autonomy — local-first workflows, explicit consent boundaries, and reproducible iterations. I learn by maintaining a personal archive of reading, tools, and curated references.</p>
+    <p>我构建小型、边界清晰的工具——本地优先的工作流、明确的授权边界、可复现的迭代节奏。我通过维护个人阅读、工具与精选参考资料来学习。</p>
+  </section>
+
+  <section>
+    <h2>项目 · Projects</h2>
+    <div class="grid">
+      <div class="card">
+        <span class="tag">Tool · 工具</span>
+        <h3><a href="https://github.com/w1977-0/media-archiver">Media Archiver</a></h3>
+        <p>A local-first Chrome MV3 companion and Go CLI for user-authorized public media. Review each URL, confirm save rights, then process. No cookies, no credentials, no DRM keys.</p>
+        <div class="stack">Go · Chrome MV3 · Native Messaging · HLS/DASH · FFmpeg</div>
+      </div>
+      <div class="card">
+        <span class="tag">Catalog · 索引</span>
+        <h3><a href="https://github.com/w1977-0/learning-hub">Learning Hub</a></h3>
+        <p>A consolidated index of educational, reading, and tooling references — with upstream attribution for each source. Five curated resources under one entry point.</p>
+        <div class="stack">Catalog · Attribution · Education · Reading</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>方向 · Direction</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 12px;">
+        <strong>Local-first tools · 本地优先工具</strong> — Auditable, reproducible personal workflows that don't collect sensitive identity data.
+      </li>
+      <li style="margin-bottom: 12px;">
+        <strong>Knowledge organization · 知识整理</strong> — Turn scattered ideas into findable, explainable notes.
+      </li>
+      <li style="margin-bottom: 12px;">
+        <strong>Open source practice · 开源实践</strong> — Combine requirements, tests, docs, and small-step commits.
+      </li>
+    </ul>
+  </section>
+
+  <div class="quote">
+    Build small, build honest, build local.
+  </div>
+
+  <section>
+    <h2>联系 · Contact</h2>
+    <div class="links">
+      <a href="https://github.com/w1977-0">GitHub</a>
+      <a href="https://github.com/w1977-0/learning-hub">Learning Hub</a>
+      <a href="https://github.com/w1977-0/w1977-0#readme">Profile README</a>
+    </div>
+  </section>
+
+  <footer>
+    © w1977-0 · Last updated 2026-08
+  </footer>
+
+</div>
+</body>
+</html>
