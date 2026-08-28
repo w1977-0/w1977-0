@@ -1,18 +1,23 @@
 <div align="center">
 
-# 把已获授权的公开媒体，留在自己掌握的本地工作流里。
+# w1977-0
 
-### 本地优先 · 明确授权 · 跨平台工具与持续学习
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1100&color=0E75B6&center=true&vCenter=true&width=620&lines=%E6%8A%8A%E5%A5%BD%E5%A5%87%E5%BF%83%E5%8F%98%E6%88%90%E5%8F%AF%E9%AA%8C%E8%AF%81%E7%9A%84%E5%B0%8F%E4%BD%9C%E5%93%81%EF%BC%9B%E7%94%A8%E8%AE%B0%E5%BD%95%E7%82%B9%E4%BA%AE%E6%88%90%E9%95%BF%E3%80%82" alt="个人价值主张" />
-</p>
+### Building local-first tools and curating learning resources
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=w1977-0&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 </div>
+
+---
+
+## Repositories · 仓库
+
+| 类别 | 仓库 | 简介 |
+|---|---|---|
+| 工具 · Tool | [media-archiver](https://github.com/w1977-0/media-archiver) | Local-first Chrome MV3 + Go CLI for public media |
+| 索引 · Catalog | [learning-hub](https://github.com/w1977-0/learning-hub) | Personal learning resources catalog (5 sources with attribution) |
 
 ---
 
@@ -60,6 +65,18 @@ go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
 | **知识笔记** | [Philosophy Notes](https://github.com/w1977-0/philosophy-notes)：用于整理可追溯的学习思考。 |
 | **工具探索** | [Content Archiver](https://github.com/w1977-0/content-archiver)、[Article Audio](https://github.com/w1977-0/article-audio) 与 [AI Sentiment](https://github.com/w1977-0/ai-sentiment) 分别对应[归档笔记](notes/open-source-learning/content-archiver.md)、[文章转音频笔记](notes/open-source-learning/article-audio.md)与[舆情分析笔记](notes/open-source-learning/ai-sentiment.md)。 |
 | **开源学习笔记总览** | [notes/open-source-learning/](notes/open-source-learning/)：五篇短笔记保留上游归属，分别说明收藏原因、运行方式、观察到的限制与下一步微实验。 |
+
+---
+
+## Learning resources catalog · 学习资源索引
+
+A consolidated index of educational, reading, and tooling references — with upstream attribution for each source.
+
+精选教育、阅读与工具参考资料的统一索引——每个来源都标注上游归属。
+
+→ [w1977-0/learning-hub](https://github.com/w1977-0/learning-hub)
+
+---
 
 ## 关于我
 
