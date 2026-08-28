@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 剑在心，烁古今！
+> 当你看不到未来的时候，只需要努力就好了，时间会给你答案。
 >
-> —— 黑神话悟空 · 黄袍员外
+> —— 夜的命名术 · 会说话的肘子
 >
-> *更新时间：2026-08-27 17:27（北京时间）*
+> *更新时间：2026-08-28 19:13（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
