@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> Yeah, power to the people
+> I will always be here for you.
 >
-> —— Fukk A Interview · Nayvadius
+> —— 环太平洋 Pacific Rim
 >
-> *更新时间：2026-08-29 14:57（北京时间）*
+> *更新时间：2026-08-30 13:13（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
