@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 岁寒，然后知松柏之后凋也。
+> “当你不能够再拥有，你唯一可以做的，就是令自己不要忘记！”
 >
-> —— 论语
+> —— 东邪西毒
 >
-> *更新时间：2026-08-31 13:21（北京时间）*
+> *更新时间：2026-09-01 12:56（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
