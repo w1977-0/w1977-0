@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> “当你不能够再拥有，你唯一可以做的，就是令自己不要忘记！”
+> 可口可乐和百事可乐相比之下，冰镇可乐喝得更痛快。
 >
-> —— 东邪西毒
+> —— 网络
 >
-> *更新时间：2026-09-01 12:56（北京时间）*
+> *更新时间：2026-09-02 12:18（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
