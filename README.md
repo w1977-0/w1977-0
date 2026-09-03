@@ -111,6 +111,21 @@ A consolidated index of educational, reading, and tooling references — with up
   <img src="https://img.shields.io/badge/Chrome%20MV3-%E6%8E%A2%E7%B4%A2%E4%B8%AD-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Manifest V3 探索中" />
 </p>
 
+## 浏览器工具(免费 · 无广告 · 无上传)
+
+单文件、零依赖、全部本地计算——你的数据不出设备。
+
+| 工具 | 用途 | 打开即用 |
+|---|---|---|
+| [yearpulse](https://github.com/w1977-0/yearpulse) | 年度进度,精确到秒,按你的时区 | [w1977-0.github.io/yearpulse](https://w1977-0.github.io/yearpulse/) |
+| [idphoto-kit](https://github.com/w1977-0/idphoto-kit) | 证件照:精确像素与 KB,换底色 | [w1977-0.github.io/idphoto-kit](https://w1977-0.github.io/idphoto-kit/) |
+| [signpad-free](https://github.com/w1977-0/signpad-free) | 手写签名板,导出透明 PNG | [w1977-0.github.io/signpad-free](https://w1977-0.github.io/signpad-free/) |
+| [exactkb](https://github.com/w1977-0/exactkb) | 图片批量压到精确 KB | [w1977-0.github.io/exactkb](https://w1977-0.github.io/exactkb/) |
+| [tax-lens](https://github.com/w1977-0/tax-lens) | 个税五险一金,每个数字可查依据 | [w1977-0.github.io/tax-lens](https://w1977-0.github.io/tax-lens/) |
+| [meetzones](https://github.com/w1977-0/meetzones) | 跨时区找共同会议时间 | [w1977-0.github.io/meetzones](https://w1977-0.github.io/meetzones/) |
+
+另有 [chrono-mcp](https://github.com/w1977-0/chrono-mcp):给 AI 编程工具的零依赖日期时间 MCP 服务器;[open-stream-saver](https://github.com/w1977-0/open-stream-saver)、[ai-commit-sweeper](https://github.com/w1977-0/ai-commit-sweeper)、[model-price-radar](https://github.com/w1977-0/model-price-radar) 为实用工具与实验项目。
+
 ## GitHub 公开活动
 
 <p align="center">
