@@ -124,6 +124,8 @@ A consolidated index of educational, reading, and tooling references — with up
 | [tax-lens](https://github.com/w1977-0/tax-lens) | 个税五险一金,每个数字可查依据 | [w1977-0.github.io/tax-lens](https://w1977-0.github.io/tax-lens/) |
 | [meetzones](https://github.com/w1977-0/meetzones) | 跨时区找共同会议时间 | [w1977-0.github.io/meetzones](https://w1977-0.github.io/meetzones/) |
 
+桌面端:[cliphusk](https://github.com/w1977-0/cliphusk) — Windows & macOS 离线剪贴板历史(键盘优先/搜索/置顶/图片,零网络请求,从 [Actions](https://github.com/w1977-0/cliphusk/actions) 下载双平台构建)。
+
 另有 [chrono-mcp](https://github.com/w1977-0/chrono-mcp):给 AI 编程工具的零依赖日期时间 MCP 服务器;[open-stream-saver](https://github.com/w1977-0/open-stream-saver)、[ai-commit-sweeper](https://github.com/w1977-0/ai-commit-sweeper)、[model-price-radar](https://github.com/w1977-0/model-price-radar) 为实用工具与实验项目。
 
 ## GitHub 公开活动
