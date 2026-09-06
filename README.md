@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> I AK IOI
+> 命运他无法让我跪地求饶，就算鲜血撒满了怀抱。
 >
-> —— ypy&zyd&ym&ygy
+> —— 追梦赤子心
 >
-> *更新时间：2026-09-05 12:15（北京时间）*
+> *更新时间：2026-09-06 12:25（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
