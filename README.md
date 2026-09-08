@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 不要逃避！不要逃避！不要逃避！
+> 你外套味道还没散，假装你还在身旁。
 >
-> —— 新世纪福音战士 · 庵野秀明
+> —— 甲乙丙丁 (你我怎么两清) · 应晓璃
 >
-> *更新时间：2026-09-07 12:24（北京时间）*
+> *更新时间：2026-09-08 12:24（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
