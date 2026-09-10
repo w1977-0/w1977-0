@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 以柔克刚，以巧克力。
+> 我们都还没来得及说再见，所以，我不会把它当做离别。
 >
-> —— 网络
+> —— 原神 · 足迹
 >
-> *更新时间：2026-09-09 12:29（北京时间）*
+> *更新时间：2026-09-10 12:27（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
