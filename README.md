@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我们都还没来得及说再见，所以，我不会把它当做离别。
+> 当我沉默的时候，我觉得很充实，当我开口说话，就感到了空虚。
 >
-> —— 原神 · 足迹
+> —— 野草・题辞 · 鲁迅
 >
-> *更新时间：2026-09-10 12:27（北京时间）*
+> *更新时间：2026-09-11 12:27（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
