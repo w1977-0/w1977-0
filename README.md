@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 当我沉默的时候，我觉得很充实，当我开口说话，就感到了空虚。
+> 没有逃不脱的厄难！如果有，那是因为还没找到那合理的理由！
 >
-> —— 野草・题辞 · 鲁迅
+> —— 乱世 · 朴素
 >
-> *更新时间：2026-09-11 12:27（北京时间）*
+> *更新时间：2026-09-12 12:24（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
