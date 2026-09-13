@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 没有逃不脱的厄难！如果有，那是因为还没找到那合理的理由！
+> 风萧萧兮易水寒，壮士一去兮不复还。
 >
-> —— 乱世 · 朴素
+> —— 荆轲歌 / 渡易水歌 · 佚名
 >
-> *更新时间：2026-09-12 12:24（北京时间）*
+> *更新时间：2026-09-13 12:36（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
