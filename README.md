@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 风萧萧兮易水寒，壮士一去兮不复还。
+> 大家都知道地下的生活不是一帆风顺，但我们依然报以微笑。
 >
-> —— 荆轲歌 / 渡易水歌 · 佚名
+> —— Undertale · Toby fox
 >
-> *更新时间：2026-09-13 12:36（北京时间）*
+> *更新时间：2026-09-14 12:45（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
