@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 大家都知道地下的生活不是一帆风顺，但我们依然报以微笑。
+> 也正是因为这百分之一才改变了你啊。
 >
-> —— Undertale · Toby fox
+> —— 葬送的芙莉莲 · 山田钟人、阿部司
 >
-> *更新时间：2026-09-14 12:45（北京时间）*
+> *更新时间：2026-09-15 12:43（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
