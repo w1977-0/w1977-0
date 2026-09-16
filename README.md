@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 也正是因为这百分之一才改变了你啊。
+> 今日欢呼孙大圣，只缘妖雾又重来。
 >
-> —— 葬送的芙莉莲 · 山田钟人、阿部司
+> —— 七律·和郭沫若同志 · 毛泽东
 >
-> *更新时间：2026-09-15 12:43（北京时间）*
+> *更新时间：2026-09-16 12:40（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
