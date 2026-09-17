@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 今日欢呼孙大圣，只缘妖雾又重来。
+> 勃，三尺微命，一介书生。
 >
-> —— 七律·和郭沫若同志 · 毛泽东
+> —— 滕王阁序 · 王勃
 >
-> *更新时间：2026-09-16 12:40（北京时间）*
+> *更新时间：2026-09-17 12:44（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
