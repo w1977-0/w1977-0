@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 勃，三尺微命，一介书生。
+> 跨越光年，归来任是你。
 >
-> —— 滕王阁序 · 王勃
+> —— 臆影
 >
-> *更新时间：2026-09-17 12:44（北京时间）*
+> *更新时间：2026-09-18 12:31（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
