@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 跨越光年，归来任是你。
+> 时间在流淌，生活会改变，没什么是永恒。
 >
-> —— 臆影
+> —— 神探夏洛克 · 麦考夫·福尔摩斯
 >
-> *更新时间：2026-09-18 12:31（北京时间）*
+> *更新时间：2026-09-19 12:28（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
