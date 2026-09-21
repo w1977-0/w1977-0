@@ -94,11 +94,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 时代变了，但有些事情可还没变呢，大人。
+> 哲学家们只是用不同的方式解释世界，而问题在于改变世界。
 >
-> —— «无耻之徒»，TNO启示录事件 · The New Order:Last Days of Europe
+> —— 关于费尔巴哈的提纲 · 马克思
 >
-> *更新时间：2026-09-20 12:45（北京时间）*
+> *更新时间：2026-09-21 12:44（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
