@@ -45,12 +45,12 @@ Open Stream Saver 是持续维护的跨平台核心。它支持用户复核公�
 [查看 Release](https://github.com/w1977-0/open-stream-saver/releases) · [阅读项目说明](https://github.com/w1977-0/open-stream-saver#readme)
 
 ```bash
-go install github.com/w1977-0/open-stream-saver/cli/cmd/open-stream-saver@v0.3.1
+go install github.com/w1977-0/open-stream-saver/cli/cmd/open-stream-saver@v0.3.2
 ```
 
 <p align="center">
-  <img src="./assets/media-archiver-popup.png" width="280" alt="Open Stream Saver Chrome MV3 扩展的实际 popup 截图" />
-  <img src="./assets/media-archiver-workflow.gif" width="490" alt="Open Stream Saver 本地操作流程 GIF" />
+  <img src="./assets/open-stream-saver-popup.png" width="280" alt="Open Stream Saver Chrome MV3 扩展的实际 popup 截图" />
+  <img src="./assets/open-stream-saver-workflow.gif" width="490" alt="Open Stream Saver 本地操作流程 GIF" />
 </p>
 
 ### Media Saver
