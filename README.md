@@ -16,35 +16,35 @@
 
 | 类别 | 仓库 | 简介 |
 |---|---|---|
-| 工具 · Tool | [media-archiver](https://github.com/w1977-0/media-archiver) | Local-first Chrome MV3 + Go CLI for public media |
+| 工具 · Tool | [open-stream-saver](https://github.com/w1977-0/open-stream-saver) | Local-first Chrome MV3 + Go CLI for public media |
 | 索引 · Catalog | [learning-hub](https://github.com/w1977-0/learning-hub) | Personal learning resources catalog (5 sources with attribution) |
 
 ---
 
 ## 代表作品
 
-### [Media Archiver](https://github.com/w1977-0/media-archiver)
+### [Open Stream Saver](https://github.com/w1977-0/open-stream-saver)
 
 **一句话价值主张：**为自己有权保存的公开媒体提供可审阅、授权优先的本地归档流程；从浏览器发现到本机 CLI 保存，全程不导入 Cookie、凭据或 DRM 密钥。
 
 `Go CLI` · `Chrome Manifest V3` · `Native Messaging` · `HLS / DASH` · `FFmpeg` · `Apache-2.0`
 
-Media Archiver 是持续维护的跨平台核心。它支持用户复核公开 URL、明确确认保存权利后，再处理单个直链、已结束的未加密 HLS，或静态未加密 DASH 内容。
+Open Stream Saver 是持续维护的跨平台核心。它支持用户复核公开 URL、明确确认保存权利后，再处理单个直链、已结束的未加密 HLS，或静态未加密 DASH 内容。
 
-[查看 Release](https://github.com/w1977-0/media-archiver/releases) · [阅读项目说明](https://github.com/w1977-0/media-archiver#readme)
+[查看 Release](https://github.com/w1977-0/open-stream-saver/releases) · [阅读项目说明](https://github.com/w1977-0/open-stream-saver#readme)
 
 ```bash
-go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
+go install github.com/w1977-0/open-stream-saver/cli/cmd/open-stream-saver@v0.3.1
 ```
 
 <p align="center">
-  <img src="./assets/media-archiver-popup.png" width="280" alt="Media Archiver Chrome MV3 扩展的实际 popup 截图" />
-  <img src="./assets/media-archiver-workflow.gif" width="490" alt="Media Archiver 本地操作流程 GIF" />
+  <img src="./assets/media-archiver-popup.png" width="280" alt="Open Stream Saver Chrome MV3 扩展的实际 popup 截图" />
+  <img src="./assets/media-archiver-workflow.gif" width="490" alt="Open Stream Saver 本地操作流程 GIF" />
 </p>
 
 ### Media Saver
 
-**研究中的本地工具。**它以 `Python`、`Flask` 与 `Streamlit` 试验更易上手的本机 GUI 流程：链接预览、授权确认与本地保存。它是 Media Archiver 之前的 GUI 探索，不附私有仓库链接；跨平台 CLI 与浏览器扩展能力以 Media Archiver 为正式核心。
+**研究中的本地工具。**它以 `Python`、`Flask` 与 `Streamlit` 试验更易上手的本机 GUI 流程：链接预览、授权确认与本地保存。它是 Open Stream Saver 之前的 GUI 探索，不附私有仓库链接；跨平台 CLI 与浏览器扩展能力以 Open Stream Saver 为正式核心。
 
 ---
 
@@ -62,7 +62,6 @@ go install github.com/w1977-0/media-archiver/cli/cmd/open-stream-saver@v0.3.1
 | --- | --- |
 | **阅读与英语素材** | [Reading Library](https://github.com/w1977-0/reading-library)：保留上游来源的英语阅读学习收藏；对应的[学习笔记](notes/open-source-learning/reading-library.md)记录了运行方式、限制与下一步实验。 |
 | **教育与知识资源** | [Learning Library](https://github.com/w1977-0/learning-library)：保留上游来源的教育资源学习收藏；对应的[学习笔记](notes/open-source-learning/learning-library.md)说明资源核验与小规模实验。 |
-| **知识笔记** | [Philosophy Notes](https://github.com/w1977-0/philosophy-notes)：用于整理可追溯的学习思考。 |
 | **工具探索** | [Content Archiver](https://github.com/w1977-0/content-archiver)、[Article Audio](https://github.com/w1977-0/article-audio) 与 [AI Sentiment](https://github.com/w1977-0/ai-sentiment) 分别对应[归档笔记](notes/open-source-learning/content-archiver.md)、[文章转音频笔记](notes/open-source-learning/article-audio.md)与[舆情分析笔记](notes/open-source-learning/ai-sentiment.md)。 |
 | **开源学习笔记总览** | [notes/open-source-learning/](notes/open-source-learning/)：五篇短笔记保留上游归属，分别说明收藏原因、运行方式、观察到的限制与下一步微实验。 |
 
