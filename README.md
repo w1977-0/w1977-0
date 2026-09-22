@@ -17,7 +17,18 @@
 | 类别 | 仓库 | 简介 |
 |---|---|---|
 | 工具 · Tool | [open-stream-saver](https://github.com/w1977-0/open-stream-saver) | Local-first Chrome MV3 + Go CLI for public media |
+| 桌面 · Desktop | [cliphusk](https://github.com/w1977-0/cliphusk) | Offline clipboard history for Windows & macOS |
 | 索引 · Catalog | [learning-hub](https://github.com/w1977-0/learning-hub) | Personal learning resources catalog (5 sources with attribution) |
+| 数据 · Data | [model-price-radar](https://github.com/w1977-0/model-price-radar) | Frontier model pricing & AI news, cross-validated |
+| 工具 · Tool | [ai-commit-sweeper](https://github.com/w1977-0/ai-commit-sweeper) | Sweeps AI attribution artifacts out of git history |
+| 服务 · Server | [chrono-mcp](https://github.com/w1977-0/chrono-mcp) | Zero-dependency date & time MCP server |
+| 自动化 · Automation | [anki-life-kb](https://github.com/w1977-0/anki-life-kb) | 飞书发一句话，卡片自动进 Anki 并同步到手机 |
+| 浏览器 · Browser | [yearpulse](https://github.com/w1977-0/yearpulse) | Year progress to the second, correct for your timezone |
+| 浏览器 · Browser | [idphoto-kit](https://github.com/w1977-0/idphoto-kit) | ID photos at exact pixel & KB, background swapped in-browser |
+| 浏览器 · Browser | [signpad-free](https://github.com/w1977-0/signpad-free) | Signature pad that exports a transparent PNG |
+| 浏览器 · Browser | [exactkb](https://github.com/w1977-0/exactkb) | Batch-compress images to an exact KB limit |
+| 浏览器 · Browser | [tax-lens](https://github.com/w1977-0/tax-lens) | China salary & social insurance, every figure sourced |
+| 浏览器 · Browser | [meetzones](https://github.com/w1977-0/meetzones) | Best meeting time across time zones |
 
 ---
 
@@ -125,7 +136,9 @@ A consolidated index of educational, reading, and tooling references — with up
 
 桌面端:[cliphusk](https://github.com/w1977-0/cliphusk) — Windows & macOS 离线剪贴板历史(键盘优先/搜索/置顶/图片,零网络请求,从 [Actions](https://github.com/w1977-0/cliphusk/actions) 下载双平台构建)。
 
-另有 [chrono-mcp](https://github.com/w1977-0/chrono-mcp):给 AI 编程工具的零依赖日期时间 MCP 服务器;[open-stream-saver](https://github.com/w1977-0/open-stream-saver)、[ai-commit-sweeper](https://github.com/w1977-0/ai-commit-sweeper)、[model-price-radar](https://github.com/w1977-0/model-price-radar) 为实用工具与实验项目。
+服务端与自动化:[chrono-mcp](https://github.com/w1977-0/chrono-mcp) — 给 AI 编程工具的零依赖日期时间 MCP 服务器;[anki-life-kb](https://github.com/w1977-0/anki-life-kb) — 在飞书里发一句话,卡片自动进 Anki 并同步到手机。
+
+其余为实用工具与实验项目:[open-stream-saver](https://github.com/w1977-0/open-stream-saver)、[ai-commit-sweeper](https://github.com/w1977-0/ai-commit-sweeper)、[model-price-radar](https://github.com/w1977-0/model-price-radar)。
 
 ## GitHub 公开活动
 
