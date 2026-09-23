@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 如果不能忠于自己的心，胜负又有什么价值呢？
+> 欲戴王冠，必承其重。
 >
-> —— 塔希里亚故事集
+> —— 亨利四世
 >
-> *更新时间：2026-09-22 12:42（北京时间）*
+> *更新时间：2026-09-23 12:36（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
