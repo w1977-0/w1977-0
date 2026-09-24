@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 欲戴王冠，必承其重。
+> 我会不断地前进，即使我现在很不好。
 >
-> —— 亨利四世
+> —— 网易云评论区
 >
-> *更新时间：2026-09-23 12:36（北京时间）*
+> *更新时间：2026-09-24 12:35（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
