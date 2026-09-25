@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我会不断地前进，即使我现在很不好。
+> 空太是笨蛋！
 >
-> —— 网易云评论区
+> —— 樱花庄的宠物女孩
 >
-> *更新时间：2026-09-24 12:35（北京时间）*
+> *更新时间：2026-09-25 12:45（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
