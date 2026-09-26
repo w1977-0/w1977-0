@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 空太是笨蛋！
+> 有意义的人等再久都有意义。
 >
-> —— 樱花庄的宠物女孩
+> —— bilibili · 佚名
 >
-> *更新时间：2026-09-25 12:45（北京时间）*
+> *更新时间：2026-09-26 12:46（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
