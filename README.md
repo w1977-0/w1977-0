@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 生于黑暗，侍奉光明。万物皆虚，万事皆允。
+> 趁着年轻，好好犯病。
 >
-> —— 刺客信条
+> —— he · he
 >
-> *更新时间：2026-09-27 13:09（北京时间）*
+> *更新时间：2026-09-28 13:12（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
