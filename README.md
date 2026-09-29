@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 趁着年轻，好好犯病。
+> 雲深不問歸途路，誰解紅塵一念煎。
 >
-> —— he · he
+> —— 做魚玉子燒 · 做魚玉子燒
 >
-> *更新时间：2026-09-28 13:12（北京时间）*
+> *更新时间：2026-09-29 13:34（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
