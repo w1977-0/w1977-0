@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 垂死病中惊坐起，仰天大笑出门去。
+> 听着不能下载的音乐，爱着回不来的人。
 >
-> —— 网络
+> —— 网易云音乐 · 大超哥帅炸天
 >
-> *更新时间：2026-09-30 13:23（北京时间）*
+> *更新时间：2026-10-01 13:39（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
