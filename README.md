@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 不要太小看人类了！
+> 我又不是因为你们的评价才去当的英雄，是因为我想当才去当的。
 >
-> —— 加油大魔王
+> —— 一拳超人
 >
-> *更新时间：2026-10-07 13:44（北京时间）*
+> *更新时间：2026-10-08 13:51（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
