@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 世界美好与莫环环相扣。
+> 生命和死亡都是可以搬运的。
 >
-> —— 网络
+> —— 明日方舟
 >
-> *更新时间：2026-10-09 13:57（北京时间）*
+> *更新时间：2026-10-10 13:39（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
