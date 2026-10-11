@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 生命和死亡都是可以搬运的。
+> 你不能因为喜欢一个人就把自己的生活扰乱​。
 >
-> —— 明日方舟
+> —— 开心超人 · 博士
 >
-> *更新时间：2026-10-10 13:39（北京时间）*
+> *更新时间：2026-10-11 13:35（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
