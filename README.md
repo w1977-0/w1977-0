@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 有些人光是遇到就已经赚到了。
+> 萧萧梧叶送寒声，江上秋风动客情。
 >
-> —— 网易云 · 赵紫骅
+> —— 夜书所见 · 叶绍翁
 >
-> *更新时间：2026-10-13 14:40（北京时间）*
+> *更新时间：2026-10-14 12:42（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
