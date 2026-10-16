@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 未觉池塘春草梦，阶前梧叶已秋声。
+> 忘记了过去，就意味着背叛！
 >
-> —— 偶成 · 朱熹
+> —— 弗拉基米尔·伊里奇·列宁
 >
-> *更新时间：2026-10-15 12:25（北京时间）*
+> *更新时间：2026-10-16 12:20（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
