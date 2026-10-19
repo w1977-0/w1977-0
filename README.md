@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 年华书写着故事，故事久存于心田。
+> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
 >
-> —— 演讲 · 唐艺铭
+> —— JOJO的奇妙冒险 · 马里奥·兹凯罗
 >
-> *更新时间：2026-10-18 12:18（北京时间）*
+> *更新时间：2026-10-19 12:28（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
