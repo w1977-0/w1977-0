@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
+> 有情人终成眷属，没钱人亲眼目睹。
 >
-> —— JOJO的奇妙冒险 · 马里奥·兹凯罗
+> —— 互联网 · 快手评论
 >
-> *更新时间：2026-10-19 12:28（北京时间）*
+> *更新时间：2026-10-20 12:38（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
