@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 东海龙王，西海情歌。
+> 世界是那么阒寂，而昨天的我已离我远去。
 >
-> —— 网络
+> —— 人间失格·皮肤与心 · 太宰治
 >
-> *更新时间：2026-10-23 12:35（北京时间）*
+> *更新时间：2026-10-24 12:24（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
