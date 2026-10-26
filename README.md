@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 没办法获胜，那就别获胜，只做快乐的小人物就可以了。
+> 依旧，依旧，人与绿杨俱瘦。
 >
-> —— 原创 · X-turbo
+> —— 如梦令·春景 · 秦观
 >
-> *更新时间：2026-10-25 12:28（北京时间）*
+> *更新时间：2026-10-26 12:32（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
