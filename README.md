@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 依旧，依旧，人与绿杨俱瘦。
+> 結局僕らは、人と人。
 >
-> —— 如梦令·春景 · 秦观
+> —— Brand New · 大森元貴
 >
-> *更新时间：2026-10-26 12:32（北京时间）*
+> *更新时间：2026-10-27 12:50（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
