@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 故友的灵魂，能交给我吗？
+> 你不能放弃，就算跛着脚也要爬上高峰。
 >
-> —— 原神 · 温迪
+> —— 楚门的世界 · 楚门
 >
-> *更新时间：2026-10-29 13:35（北京时间）*
+> *更新时间：2026-10-30 13:34（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
