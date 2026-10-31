@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 你不能放弃，就算跛着脚也要爬上高峰。
+> 憧憬是距离理解最遥远的感情。
 >
-> —— 楚门的世界 · 楚门
+> —— 蓝染惣右介
 >
-> *更新时间：2026-10-30 13:34（北京时间）*
+> *更新时间：2026-10-31 13:23（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
