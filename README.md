@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 年长者最大的修养就是控制住批评年轻人的欲望。
+> 因为失去,所以明白。
 >
-> —— 月亮与六便士 · 毛姆
+> —— 火影忍者 · 漩涡鸣人
 >
-> *更新时间：2026-11-02 13:49（北京时间）*
+> *更新时间：2026-11-03 14:32（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
