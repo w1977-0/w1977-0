@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 对青少年的坏影响，不可计量。
+> 我还能和你看多少次这样的烟花呢？
 >
-> —— 刃牙 · 某神秘记者
+> —— 打上花火
 >
-> *更新时间：2026-11-04 14:01（北京时间）*
+> *更新时间：2026-11-05 14:29（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
