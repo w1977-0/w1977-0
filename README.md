@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我还能和你看多少次这样的烟花呢？
+> 人类真是奇妙，生命如此短暂，却活得那么认真。
 >
-> —— 打上花火
+> —— 葬送的芙莉莲 · 山田钟人
 >
-> *更新时间：2026-11-05 14:29（北京时间）*
+> *更新时间：2026-11-06 14:24（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
