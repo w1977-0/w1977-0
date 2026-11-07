@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 人类真是奇妙，生命如此短暂，却活得那么认真。
+> 被关心然后关心，关心然后被关心。
 >
-> —— 葬送的芙莉莲 · 山田钟人
+> —— 灵感 · auc
 >
-> *更新时间：2026-11-06 14:24（北京时间）*
+> *更新时间：2026-11-07 13:47（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
