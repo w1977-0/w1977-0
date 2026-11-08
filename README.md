@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 被关心然后关心，关心然后被关心。
+> 当遇到你时，大脑连上CSGO都会掉帧。
 >
-> —— 灵感 · auc
+> —— Florence · Florence
 >
-> *更新时间：2026-11-07 13:47（北京时间）*
+> *更新时间：2026-11-08 13:50（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
