@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 当遇到你时，大脑连上CSGO都会掉帧。
+> 信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。
 >
-> —— Florence · Florence
+> —— 沉默的大多数 · 王小波
 >
-> *更新时间：2026-11-08 13:50（北京时间）*
+> *更新时间：2026-11-09 14:03（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
