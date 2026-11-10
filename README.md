@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。
+> 你的身体藏着倦意。
 >
-> —— 沉默的大多数 · 王小波
+> —— 不擅生长的树 · 吴佩岭@房东的猫
 >
-> *更新时间：2026-11-09 14:03（北京时间）*
+> *更新时间：2026-11-10 15:05（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
