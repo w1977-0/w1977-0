@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 你的身体藏着倦意。
+> How did forever fade so soon?
 >
-> —— 不擅生长的树 · 吴佩岭@房东的猫
+> —— HEAVENLY JUMPSTYLE · John Kell
 >
-> *更新时间：2026-11-10 15:05（北京时间）*
+> *更新时间：2026-11-11 13:57（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
