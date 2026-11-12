@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> How did forever fade so soon?
+> 你的无畏来源于无知。
 >
-> —— HEAVENLY JUMPSTYLE · John Kell
+> —— 三体
 >
-> *更新时间：2026-11-11 13:57（北京时间）*
+> *更新时间：2026-11-12 14:59（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
