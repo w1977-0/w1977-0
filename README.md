@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 忘掉生日，忘掉青涩的诗，忘掉他不厌其烦夜夜追逐他影子。
+> 我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。
 >
-> —— 菱形月亮 · 邱意
+> —— 熔炉
 >
-> *更新时间：2026-11-13 14:25（北京时间）*
+> *更新时间：2026-11-14 14:05（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
