@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。
+> 人与人在偶然之中创造相遇与别离。
 >
-> —— 熔炉
+> —— 银河和声
 >
-> *更新时间：2026-11-14 14:05（北京时间）*
+> *更新时间：2026-11-15 14:12（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
