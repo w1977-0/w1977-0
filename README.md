@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 人与人在偶然之中创造相遇与别离。
+> 为学日益，为道日损。
 >
-> —— 银河和声
+> —— 道德经 · 李耳
 >
-> *更新时间：2026-11-15 14:12（北京时间）*
+> *更新时间：2026-11-16 14:10（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
