@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 为学日益，为道日损。
+> 为者常成，行者常至。
 >
-> —— 道德经 · 李耳
+> —— 晏子春秋·内篇杂下
 >
-> *更新时间：2026-11-16 14:10（北京时间）*
+> *更新时间：2026-11-17 15:44（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
