@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我在出差的高铁上晒着太阳，装作出门旅行的模样。
+> 高三的活人感还没有三高的人强。
 >
-> —— 个人 · T&Z
+> —— 弱智吧 · hantuo321
 >
-> *更新时间：2026-11-19 15:12（北京时间）*
+> *更新时间：2026-11-20 14:59（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
