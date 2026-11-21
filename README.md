@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 高三的活人感还没有三高的人强。
+> 来人间一趟 你要看看太阳。
 >
-> —— 弱智吧 · hantuo321
+> —— 海底 · 薯味博饼
 >
-> *更新时间：2026-11-20 14:59（北京时间）*
+> *更新时间：2026-11-21 14:54（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
