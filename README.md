@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 世界历史的最后一个阶段是它的悲剧。
+> 一点星光，在心上就能反射出太阳。
 >
-> —— 黑格尔法哲学批判导言 · 马克思
+> —— 星光效应 · 学而思
 >
-> *更新时间：2026-11-22 14:31（北京时间）*
+> *更新时间：2026-11-23 15:21（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
