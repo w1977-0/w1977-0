@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 一点星光，在心上就能反射出太阳。
+> 法律是冷冰冰的条文，而正义是它跳动的心脏。
 >
-> —— 星光效应 · 学而思
+> —— 蛋仔派对 · 执法官布谷
 >
-> *更新时间：2026-11-23 15:21（北京时间）*
+> *更新时间：2026-11-24 17:42（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
