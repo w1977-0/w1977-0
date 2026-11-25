@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 法律是冷冰冰的条文，而正义是它跳动的心脏。
+> 我和你，可以做朋友吗？
 >
-> —— 蛋仔派对 · 执法官布谷
+> —— 声の形
 >
-> *更新时间：2026-11-24 17:42（北京时间）*
+> *更新时间：2026-11-25 16:16（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
