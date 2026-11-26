@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 我和你，可以做朋友吗？
+> 美国有美金，中国有中金，英国有什么？
 >
-> —— 声の形
+> —— B站
 >
-> *更新时间：2026-11-25 16:16（北京时间）*
+> *更新时间：2026-11-26 16:01（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
