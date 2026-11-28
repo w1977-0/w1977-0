@@ -104,11 +104,11 @@ A consolidated index of educational, reading, and tooling references — with up
 ## 今日一言
 
 <!-- DAILY-QUOTE:START -->
-> 所谓宿命，其实都是最好的安排。
+> 是怎样一个你闯进了我命运。
 >
-> —— 将夜
+> —— 你是朝朝暮暮 · 路小可
 >
-> *更新时间：2026-11-27 16:07（北京时间）*
+> *更新时间：2026-11-28 15:33（北京时间）*
 <!-- DAILY-QUOTE:END -->
 
 ## 正在学习的工具
